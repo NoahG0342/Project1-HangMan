@@ -1,0 +1,16 @@
+#h11{
+    text-align: center;
+    font-size: 75px;
+    color: orange;
+    text-shadow: 5px 5px 5px green;
+}
+body{
+    background-image: url("images/1.jpg");
+    background-size: 100% ;
+}
+#h21{
+    font-size: 40px;
+    text-align: center;
+    color: orange;
+    text-shadow: 5px 5px 5px black;
+}
