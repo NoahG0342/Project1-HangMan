@@ -14,3 +14,7 @@ body{
     color: orange;
     text-shadow: 5px 5px 5px black;
 }
+
+#guessALetter{
+    align-content: center;
+}
