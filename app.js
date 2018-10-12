@@ -11,7 +11,14 @@ for (let i = 0; i < chosenWord.length; i++) {
 
 document.querySelector('.answer-container').innerHTML = underScoreArray.join('')
 
+const buttons = document.querySelectorAll('.button')
 
+
+for (let i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener('click', function() {
+        console.log(buttons[i].value.toLowerCase())
+    })
+}
 
 console.log(chosenWord)
 console.log(underScoreArray)
