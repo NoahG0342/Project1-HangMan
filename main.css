@@ -14,3 +14,11 @@ body{
     color: orange;
     text-shadow: 5px 5px 5px black;
 }
+.keyboard{
+    text-align: center;
+}
+.button{
+    width: 50px;
+    background-color: goldenrod;
+    box-shadow: 15px 15px 15px black;
+}
