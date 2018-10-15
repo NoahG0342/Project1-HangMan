@@ -19,23 +19,35 @@ for (let i = 0; i < chosenWord.length; i++) {
 
 const buttons = document.querySelectorAll('.button')
 
+document.querySelector('.answer-container').innerHTML = underScoreArray.join('')
+
 // making it where all my buttons that i click gome out lowwer case and not uppercase 
 for (let i = 0; i < buttons.length; i++) {
-    buttons[i].addEventListener('click', function() {
+    buttons[i].addEventListener('click', function () {
         console.log(buttons[i].value.toLowerCase())
         let letterSelection = buttons[i].value.toLowerCase()
-        var index = chosenWord.indexOf(letterSelection)
-        console.log(index)
-        underScoreArray[index] = letterSelection
+        answer(letterSelection)
+
 
         document.querySelector('.answer-container').innerHTML = underScoreArray.join('')
-        
+
         // if this value is in choesen word use method includes 
-            //replace underscore for the value
-            // if value is there apper in dom
+        //replace underscore for the value
+        // if value is there apper in dom
         //if the value is not in array then lose a life 
         // if everything is completed then asume we win 
     })
+}
+
+function answer(letter) {
+
+    for (let i = 0; i < chosenWord.length; i++) {
+        if (chosenWord[i] === letter) {
+            underScoreArray[i] = letter
+        }
+    }
+
+
 }
 
 
