@@ -13,6 +13,7 @@ Bit ballon link: http://epic-hypatia-447468.netlify.com/
 
 step 1. i made a wire frame
 step 2. i worked on trello
+step 3.started working on my indeex.html 
 
 
 next time i do this i will be more prepared
