@@ -38,7 +38,7 @@ for (let i = 0; i < buttons.length; i++) {
         // if everything is completed then asume we win 
     })
 }
-
+// how i got it to showall the letters 
 function answer(letter) {
 
     for (let i = 0; i < chosenWord.length; i++) {
