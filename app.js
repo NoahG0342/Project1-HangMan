@@ -15,7 +15,7 @@ for (let i = 0; i < chosenWord.length; i++) {
     underScoreArray.push('_ ')
 }
 // how i put the words in the box 
-document.querySelector('.answer-container').innerHTML = underScoreArray.join('')
+// document.querySelector('.answer-container').innerHTML = underScoreArray.join('')
 
 const buttons = document.querySelectorAll('.button')
 
@@ -23,6 +23,13 @@ const buttons = document.querySelectorAll('.button')
 for (let i = 0; i < buttons.length; i++) {
     buttons[i].addEventListener('click', function() {
         console.log(buttons[i].value.toLowerCase())
+        let letterSelection = buttons[i].value.toLowerCase()
+        var index = chosenWord.indexOf(letterSelection)
+        console.log(index)
+        underScoreArray[index] = letterSelection
+
+        document.querySelector('.answer-container').innerHTML = underScoreArray.join('')
+        
         // if this value is in choesen word use method includes 
             //replace underscore for the value
             // if value is there apper in dom
@@ -30,6 +37,9 @@ for (let i = 0; i < buttons.length; i++) {
         // if everything is completed then asume we win 
     })
 }
+
+
+
 
 console.log(chosenWord)
 console.log(underScoreArray)
