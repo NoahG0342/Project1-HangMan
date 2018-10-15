@@ -17,5 +17,8 @@ step 3.started working on my indeex.html
 step 4. worked in css
 step 5. made some var
 step 6. worked on some functions
+step 7. i needed to create a cuntainer for my answers
+step 8. 
+step 9.
 
 next time i do this i will be more prepared
