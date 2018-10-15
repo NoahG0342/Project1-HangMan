@@ -12,6 +12,7 @@ Bit ballon link: http://epic-hypatia-447468.netlify.com/
 # the breakdown of what i did 
 
 step 1. i made a wire frame
+step 2. i worked on trello
 
 
 next time i do this i will be more prepared
