@@ -9,4 +9,6 @@ https://trello.com/b/g1Y5hzYw/untitled-board
 
 Bit ballon link: http://epic-hypatia-447468.netlify.com/
 
+# the breakdown of what i did 
+
 next time i do this i will be more prepared
