@@ -15,5 +15,6 @@ step 1. i made a wire frame
 step 2. i worked on trello
 step 3.started working on my indeex.html 
 step 4. worked in css
+step 5. made some var
 
 next time i do this i will be more prepared
