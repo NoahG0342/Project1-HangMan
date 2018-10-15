@@ -23,6 +23,11 @@ const buttons = document.querySelectorAll('.button')
 for (let i = 0; i < buttons.length; i++) {
     buttons[i].addEventListener('click', function() {
         console.log(buttons[i].value.toLowerCase())
+        // if this value is in choesen word use method includes 
+            //replace underscore for the value
+            // if value is there apper in dom
+        //if the value is not in array then lose a life 
+        // if everything is completed then asume we win 
     })
 }
 
