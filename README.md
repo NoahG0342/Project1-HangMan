@@ -19,6 +19,6 @@ step 5. made some var
 step 6. worked on some functions
 step 7. i needed to create a cuntainer for my answers
 step 8. i made the buttons with a on click function
-step 9.
+step 9.got the letters to apper in my answer box
 
 next time i do this i will be more prepared
