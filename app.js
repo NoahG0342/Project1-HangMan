@@ -1,4 +1,6 @@
 
+var guesses = 5
+
 //making an array for the words that i want to use in my game
 let answers = ["coffe", "creamer", "mug", "espresso", "beans", "decaf", "barista"]
 
@@ -44,6 +46,9 @@ function answer(letter) {
     for (let i = 0; i < chosenWord.length; i++) {
         if (chosenWord[i] === letter) {
             underScoreArray[i] = letter
+        }else{
+            guesses -= 1
+            if (guesses = 0 )
         }
     }
 
