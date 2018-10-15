@@ -26,3 +26,5 @@ for (let i = 0; i < buttons.length; i++) {
     })
 }
 
+console.log(chosenWord)
+console.log(underScoreArray)
