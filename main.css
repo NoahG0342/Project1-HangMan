@@ -25,6 +25,8 @@ body{
 
 .answer-container {
     background: white;
-    height: 150px;
+    height: 50px;
     width: 150px;
+    text-align: center;
+
 }
