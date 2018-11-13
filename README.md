@@ -2,7 +2,9 @@
 
 i am building a game with javascript.
 
-link to my wireframe : https://www.figma.com/file/HSYhBAKWHVZ6Vup2KIOd3alT/Untitled?node-id=0%3A1
+link to my wireframe : https://imgur.com/a/iuL2mHG
+
+# My new wireframe is in my images folder
 
 likn to trello: 
 https://trello.com/b/g1Y5hzYw/untitled-board
