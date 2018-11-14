@@ -40,3 +40,9 @@ There are a few things on this project that i would like to have seen that i jus
 - I would also like to have been able to add a hint button 
 
 - Lastly the thng that i would like to have done the most is had the win and lose function this is the most important thing that i didn't get to achieve
+
+# What i used
+
+- Html
+- Css 
+- JavaScript
