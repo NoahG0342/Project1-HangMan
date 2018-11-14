@@ -1,6 +1,6 @@
 # Project1-HangMan :
 
-Hangman is a game where a player is showen a blank answer feild that contains a hidden word. They then have to find that word by guessing letters onec at a time. The player has up to 6 wrong guesses before they then lose all there lives. If the player guesses all the letters or figures out the word before they run out with lives then they win. 
+Hangman is a game where a player is showen a blank answer feild that contains a hidden word. They then have to find that word by guessing letters once at a time. The player has up to 6 wrong guesses before they then lose all there lives. If the player guesses all the letters or figures out the word before they run out with lives then they win. 
 
 link to my wireframe : https://imgur.com/a/iuL2mHG
 
