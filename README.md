@@ -15,19 +15,13 @@ Bit ballon link: http://epic-hypatia-447468.netlify.com/
 
 2. Next there is this great website called trello that i love so much and i used that to help me stay on track and write out cards so i know what has been done what needs to be done and what i am working on at that moment
 
-3. Started working on my indeex.html 
+3. Touched my index.html and started working on that by adding my boilerplate and this is where i put the container for my answer and all the divs for my key board 
 
-4. Worked in css
+4. Touched my main.css and this is where i do all of my styling 
 
-5. Made some var
+5. Made some varables to use in the functions that i create 
 
- 6. Worked on some functions
-
- 7. I needed to create a  for my answers
-
- 8. I made the buttons with a on click function
-
- 9. Got the letters to apper in my answer box
+ 6. I made the buttons with a on click function for my keyboard so that each time you click on a letter it will go through the array and see if the word is in the the answer array
 
 # What i would like to see happen in my project that i didnt have the chance to get to this go around :
 
